@@ -36,7 +36,6 @@ main{
 .options{
     margin-top: 1rem;
     display: flex;
-    justify-content: space-between;
     text-decoration: none;
     padding: 1.1rem;
     color: white;
